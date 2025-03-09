@@ -92,11 +92,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/owenwilson/Documents/Tests/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/owenwilson/Documents/GitHub/IntegralCalculator/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/Users/owenwilson/Documents/Tests/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/Users/owenwilson/Documents/GitHub/IntegralCalculator/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/Users/owenwilson/.nuget/packages/",
-      "outputPath": "/Users/owenwilson/Documents/Tests/ConsoleApp1/obj/",
+      "outputPath": "/Users/owenwilson/Documents/GitHub/IntegralCalculator/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/owenwilson/.nuget/NuGet/NuGet.Config"

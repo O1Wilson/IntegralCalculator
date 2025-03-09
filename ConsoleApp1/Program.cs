@@ -12,7 +12,7 @@ public enum IntegrationMethod {
 
 class Program {
     static void Main(string[] args) {
-        Console.WriteLine("Enter an equation in terms of x (e.g., ((x-1)^3)+4):");
+        Console.WriteLine("Enter an equation in terms of x");
         string equation = Console.ReadLine() ?? "";
 
         Console.WriteLine("How many partitions would you like?");
